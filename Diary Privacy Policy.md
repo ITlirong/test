@@ -1,6 +1,8 @@
-隐私政策
-本App深知个人信息对您的重要性，并会尽全力保护您的个人信息安全可靠。我们致力于维持您对我们的信任，保护您的个人信息。请在使用我们的产品（或服务）前，仔细阅读并了解本《隐私权政策》。
-一、我们如何收集和使用您的个人信息
-个人信息是指以电子或者其他方式记录的能够单独或者与其他信息结合识别特定自然人身份或者反映特定自然人活动情况的各种信息。我们绝不会收集用户的个人信息。
-二、我们如何存储数据
-基于应用需求，我们需要在本地保存您的个人日记信息，绝不会通过网络或者其他途径将您的日记发送到别的设备或者服务器。
+Privacy Policy
+This app understands the importance of personal information to you and will do its utmost to protect your personal information. We are committed to maintaining your trust in us and protecting your personal information. Please read and understand this Privacy Policy before using our products (or services).
+1. How do we collect and use your personal information?
+Personal information refers to various information recorded electronically or otherwise that can identify a specific natural person or reflect the activity of a particular natural person, either alone or in combination with other information. We will never collect personal information from users.
+2. how do we store data
+Based on the application requirements, we need to save your personal journal information locally, and never send your diary to other devices or servers via the Internet or other means.
+ 
+
